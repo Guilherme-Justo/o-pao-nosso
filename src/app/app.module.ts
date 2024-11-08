@@ -4,14 +4,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
-import { MenuTitleComponent } from './components/menu-title/menu-title.component';
+import { TitleComponent } from './components/title/title.component';
 import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuBarComponent,
-    MenuTitleComponent,
+    TitleComponent,
     HomeComponent
   ],
   imports: [

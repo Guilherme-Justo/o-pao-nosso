@@ -1,0 +1,21 @@
+* {
+  background-color: #222222;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.title {
+  width: 50%;
+  padding: 20px;
+  font-size: 60px;
+  line-height: 0.8;
+  letter-spacing: 10px;
+  color: #F9DA95
+}
+
+.subtitle {
+  width: 50%;
+  padding: 20px;
+  font-size: 20px;
+  font-style: italic;
+}
