@@ -1,5 +1,10 @@
 * {
   background-color: #222222 !important;
+  color: white;
+}
+
+a {
+  text-decoration: none;
 }
 
 .menu-elements {
@@ -15,7 +20,7 @@
   margin-left: 20px;
 }
 
-.menu-elements > div > img {
+.menu-elements > div > a > img {
   justify-content: flex-start;
   align-items: center;
   width: 40px;

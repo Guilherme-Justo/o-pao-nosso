@@ -1,0 +1,37 @@
+* {
+  background-color: #222222;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+
+.margins {
+  margin-left: 180px;
+  margin-right: 180px;
+}
+
+.home-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-img {
+  padding: 20px;
+}
+
+.title {
+  width: 100%;
+  padding: 20px;
+  font-size: 60px;
+  line-height: 0.8;
+  letter-spacing: 5px;
+  color: #dddddd;
+  margin-right: 150px;
+}
+
+.subtitle {
+  width: 100%;
+  padding: 20px;
+  font-size: 20px;
+  font-style: italic;
+  color: #999999
+}
