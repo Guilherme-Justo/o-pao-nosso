@@ -1,5 +1,5 @@
 * {
-  background-color: #222222;
+  background-color: #222222 !important;
 }
 
 .menu-elements {
@@ -12,7 +12,13 @@
 .menu-elements > div {
   justify-content: flex-start;
   align-items: center;
-  padding: 20px;
+  margin-left: 20px;
+}
+
+.menu-elements > div > img {
+  justify-content: flex-start;
+  align-items: center;
+  width: 40px;
 }
 
 .menu-elements > ul {

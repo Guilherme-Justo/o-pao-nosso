@@ -5,17 +5,18 @@
 }
 
 .title {
-  width: 50%;
+  width: 100%;
   padding: 20px;
   font-size: 60px;
   line-height: 0.8;
-  letter-spacing: 10px;
-  color: #F9DA95
+  letter-spacing: 5px;
+  color: #dddddd
 }
 
 .subtitle {
-  width: 50%;
+  width: 100%;
   padding: 20px;
   font-size: 20px;
   font-style: italic;
+  color: #999999
 }

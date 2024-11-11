@@ -1,0 +1,11 @@
+* {
+  background-color: #222222;
+}
+
+.home-body {
+  display: flex
+}
+
+.home-img {
+  padding: 20px;
+}
