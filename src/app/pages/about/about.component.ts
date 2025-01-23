@@ -12,7 +12,7 @@ export class AboutComponent {
 
   constructor() {
     this.title = 'Sobre nós'
-    this.text = `Você é discípulo de Jesus ou deseja ser? Então está no Lugar certo!\n` +
+    this.text = `Você é um discípulo de Jesus ou quer ser? Então está no Lugar certo!\n` +
     `Somos um blog dedicado em trazer para você a vontade de Deus revelada nas Sua Palavra.\n` +
     `Fique a vontade para explorar todo o conteúdo disponível e aprender sobre Jesus. Ele é o centro desse blog!`
   }
